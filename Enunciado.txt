@@ -9,3 +9,8 @@ resultado final esperado. Apenas uma tela com uma tabela igual a da
 imagem.
 
 A única limitação é que não seja usado nenhum framework.
+
+Parte 2 
+
+Crie as funções CRUD na aplicação, sendo possivel cirar, ler, atualizar e deletar
+
